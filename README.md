@@ -1,2 +1,2 @@
-# friendly-waffle
+# my_projects_list
 
